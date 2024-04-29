@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+  #rodape:hover{
+    color: #FFF !important;
+    font-weight: bold;
+    
+  }
+  #rodape{
+    color: #c0bfbf;
+  }
+  .rte{
+    background-color: rgb(192, 27, 27);
+    height: 150px;
+  }
+  #perfil{
+    height: 400px;
+    background-color: #eeeeee;
+    color: black;
+    font-family: "Quicksand", sans-serif;
+  }
+  #sobreText{
+    color: black;
+    font-family: 'Arial Black', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to right, rgb(41, 5, 245) , rgb(234, 2, 255));
+    -webkit-text-fill-color: transparent; 
+    color: transparent; /* Outros navegadores */
+    background-clip: text;
+  }
+  .sobreIcons:hover{
+    font-size: 30px;
+    color: rgb(100, 62, 207);
+  }
+  .sobreIcons{
+    font-size: 30px;
+    color: rgb(195, 195, 197);
+  }
+  i{
+    font-size: 30px !important;
+    color: rgb(195, 195, 197);
+  }
+ 
+
+  /* -------------------------------------------------------------------------------- */
+  .inicio{
+    height: 800px;
+    background-color: rgb(0, 0, 0);
+    font-family: "Sacramento", cursive;
+    font-weight: 40px;
+    font-style: normal;
+  }
+  .perfil{
+    height: 500px;
+    background-color: rgb(131, 131, 131);
+    /* font-family: "Sacramento", cursive; */
+    font-weight: 40px;
+    font-style: normal;
+  }
+  .guy{
+    width:290px;
+    height: 350px;
+  }
+  .formacao{
+    height: 450px;
+  }
